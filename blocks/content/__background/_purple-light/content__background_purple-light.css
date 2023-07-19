@@ -1,0 +1,11 @@
+.content__background_purple-light {
+    width: 259px;
+    height: 259px;
+    top: -130px;
+    left: 45%;
+    z-index: 1;
+    background-color: #833ab41a;
+    border-radius: 45%;
+    box-shadow: 5px 5px 150px 50px #833ab425;
+    background-image: url(../../../../images/purple-light.svg);
+}

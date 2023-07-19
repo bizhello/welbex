@@ -1,0 +1,12 @@
+.content__background_red-light {
+    width: 311px;
+    height: 311px;
+    top: 35%;
+    left: -100px;
+    z-index: 1;
+    background-color: #f7232310;
+    border-radius: 0px 50% 50% 0px;
+    box-shadow: 5px 5px 150px 150px #f7111110;
+    background-image: url(../../../../images/red-light.svg);
+    background-size: cover;
+}

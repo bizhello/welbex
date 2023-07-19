@@ -1,0 +1,20 @@
+.main__button {
+    margin-top: 61px;
+    width: 262px;
+    height: 61px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #E4E5EA;
+    background: #4077F3;
+    border: none;
+}
+
+@media (max-width: 986px) {
+    .main__button {
+        display: none;
+    }
+}

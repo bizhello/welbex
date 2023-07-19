@@ -1,0 +1,16 @@
+.content {
+    position: relative;
+    padding: 0 149px;
+    width: 100%;
+    z-index: 1;
+    max-width: 1440px;
+    min-height: 100vh;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+@media (max-width: 920px) {
+    .content {
+        padding: 0 16px;
+    }
+}

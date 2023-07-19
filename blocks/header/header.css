@@ -1,0 +1,16 @@
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 46px;
+    padding-top: 11px;
+    background-color: #0e0f14;
+    box-sizing: border-box;
+}
+
+@media (max-width: 966px) {
+    .header {
+        background-color: black;
+    }
+}

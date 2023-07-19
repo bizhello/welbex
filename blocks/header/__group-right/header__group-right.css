@@ -1,0 +1,10 @@
+.header__group-right {
+    display: flex;
+    padding-top: 11px;
+}
+
+@media (max-width: 1268px) {
+    .header__group-right {
+        display: none;
+    }
+}

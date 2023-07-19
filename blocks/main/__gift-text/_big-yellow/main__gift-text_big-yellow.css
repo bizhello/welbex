@@ -1,0 +1,7 @@
+.main__gift-text_big-yellow {
+    background: linear-gradient(92deg, #f39107, #f34713);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-emphasis-color: transparent;
+}

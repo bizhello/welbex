@@ -1,0 +1,10 @@
+.header__block-logo {
+    width: 140px;
+    margin-right: 52px;
+}
+
+@media (max-width: 966px) {
+    .header__block-logo {
+        display: none;
+    }
+}

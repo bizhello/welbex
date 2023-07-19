@@ -1,0 +1,11 @@
+.footer__contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+@media (max-width: 800px) {
+    .footer__contacts {
+        align-items: start;
+    }
+}

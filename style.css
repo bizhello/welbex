@@ -1,0 +1,62 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts.css);
+
+@import url(./blocks/body/body.css);
+
+@import url(./blocks/content/content.css);
+@import url(./blocks/content/__background/content__background.css);
+@import url(./blocks/content/__background/_purple-ball/content__background_purple-ball.css);
+@import url(./blocks/content/__background/_red-ball/content__background_red-ball.css);
+@import url(./blocks/content/__background/_red-ball-1/content__background_red-ball-1.css);
+@import url(./blocks/content/__background/_purple-light/content__background_purple-light.css);
+@import url(./blocks/content/__background/_red-light/content__background_red-light.css);
+
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__group-left/header__group-left.css);
+@import url(./blocks/header/__block-logo/header__block-logo.css);
+@import url(./blocks/header/__logo/header__logo.css);
+@import url(./blocks/header/__title/header__title.css);
+@import url(./blocks/header/__navigation/header__navigation.css);
+@import url(./blocks/header/__lists/header__lists.css); 
+@import url(./blocks/header/__list/header__list.css); 
+@import url(./blocks/header/__link/header__link.css);
+@import url(./blocks/header/__group-right/header__group-right.css);
+@import url(./blocks/header/__phone-number/header__phone-number.css);
+@import url(./blocks/header/__list-logo/header__list-logo.css);
+@import url(./blocks/header/__list-logo/_telegram/header__list-logo_telegram.css);
+@import url(./blocks/header/__list-logo/_viber/header__list-logo_viber.css);
+@import url(./blocks/header/__list-logo/_whatsapp/header__list-logo_whatsapp.css);
+
+@import url(./blocks/main/main.css);
+@import url(./blocks/main/__agitation/main__agitation.css);
+@import url(./blocks/main/__tagline/main__tagline.css);
+@import url(./blocks/main/__name-company/main__name-company.css);
+@import url(./blocks/main/__advantage/main__advantage.css);
+@import url(./blocks/main/__entry/main__entry.css);
+@import url(./blocks/main/__gift/main__gift.css);
+@import url(./blocks/main/__gift-text/main__gift-text.css);
+@import url(./blocks/main/__gift-text/_big-red/main__gift-text_big-red.css);
+@import url(./blocks/main/__gift-text/_big-yellow/main__gift-text_big-yellow.css);
+@import url(./blocks/main/__lists/main__lists.css);
+@import url(./blocks/main/__list/main__list.css);
+@import url(./blocks/main/__list-hidden/main__list-hidden.css);
+@import url(./blocks/main/__button/main__button.css);
+
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__left/footer__left.css);
+@import url(./blocks/footer/__about-company/footer__about-company.css);
+@import url(./blocks/footer/__title-block/footer__title-block.css);
+@import url(./blocks/footer/__lists/footer__lists.css);
+@import url(./blocks/footer/__list/footer__list.css);
+@import url(./blocks/footer/__link/footer__link.css);
+@import url(./blocks/footer/__menu-block/footer__menu-block.css);
+@import url(./blocks/footer/__contacts/footer__contacts.css);
+@import url(./blocks/footer/__number/footer__number.css);
+@import url(./blocks/footer/__icons/footer__icons.css);
+@import url(./blocks/footer/__icon/footer__icon.css);
+@import url(./blocks/footer/__icon/_telegram/footer__icon_telegram.css);
+@import url(./blocks/footer/__icon/_viber/footer__icon_viber.css);
+@import url(./blocks/footer/__icon/_whatsapp/footer__icon_whatsapp.css);
+@import url(./blocks/footer/__adress/footer__adress.css);
+@import url(./blocks/footer/__rights/footer__rights.css);
+@import url(./blocks/footer/__privacy-policy/footer__privacy-policy.css);

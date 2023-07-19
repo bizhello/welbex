@@ -1,0 +1,10 @@
+.main__agitation {
+    max-width: 362px;
+}
+
+
+@media (max-width: 986px) {
+    .main__agitation {
+        margin: 0;
+    }
+}

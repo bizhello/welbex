@@ -1,0 +1,9 @@
+.header__list {
+    list-style-type: none;
+}
+
+@media (max-width: 511px) {
+    .header__list:last-child {
+        display: none;
+    }
+}

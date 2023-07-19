@@ -1,0 +1,16 @@
+.main__tagline {
+    margin: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #E4E5EA;
+}
+
+@media (max-width: 986px) {
+    .main__tagline {
+        font-size: 36px;
+        line-height: 44px;
+    }
+}

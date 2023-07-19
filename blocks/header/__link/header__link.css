@@ -1,0 +1,23 @@
+.header__link {
+    position: relative;
+    text-decoration: none;
+    margin-right: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #E4E5EA;
+    z-index: 3;
+}
+
+.header__list:last-child .header__link {
+    margin-right: 0;
+}
+
+
+@media (max-width: 800px) {
+    .header__link {
+        margin-right: 7px;
+    }
+}
